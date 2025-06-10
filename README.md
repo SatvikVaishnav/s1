@@ -67,10 +67,11 @@ Ideal for:
 ---
 
 ## 🗂️ Repository Structure
----
+
 / (root)
 ├─ satvik1.pbix
 └─ README.md
+---
 ## ⚒️ Future Improvements
 
 - Connect dashboard to real-time or larger data sources  
