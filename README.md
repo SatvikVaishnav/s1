@@ -67,4 +67,31 @@ Ideal for:
 ---
 
 ## 🗂️ Repository Structure
+---
+/ (root)
+├─ satvik1.pbix
+└─ README.md
+## ⚒️ Future Improvements
+
+- Connect dashboard to real-time or larger data sources  
+- Add forecasting visuals (e.g. using Power BI forecast feature)  
+- Include advanced analytics (e.g. cohort, RFM, retention analysis)  
+- Improve geographic maps with custom regions
+
+---
+
+## 📨 Feedback / Questions
+
+Feel free to open an issue or reach out if you have suggestions, questions, or ideas!
+
+---
+
+## 📄 License
+
+This project is open-source under the **MIT License**. See [LICENSE](LICENSE) for details.  
+(If no LICENSE file is present, you can either add one or remove this section.)
+
+---
+
+*Generated for repository [SatvikVaishnav/s1](https://github.com/SatvikVaishnav/s1).*
 
