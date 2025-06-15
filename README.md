@@ -68,7 +68,7 @@ Ideal for:
 
 ## 🗂️ Repository Structure
 ``` 
-📦 s1
+📦 SatvikDashboardVisualization
    ┣ 📊 satvik1.pbix
    ┣ 📄 README.md
    ┣ 📂 Orders.csv
@@ -98,5 +98,5 @@ This project is open-source under the **MIT License**. See [LICENSE](LICENSE) fo
 
 ---
 
-*Generated for repository [SatvikVaishnav/s1](https://github.com/SatvikVaishnav/s1).*
+*Generated for repository [SatvikVaishnav/SatvikDashboardVisualization](https://github.com/SatvikVaishnav/s1).*
 
