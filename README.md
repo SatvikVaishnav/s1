@@ -67,10 +67,12 @@ Ideal for:
 ---
 
 ## 🗂️ Repository Structure
+
 ---
 / (root)
 ├─ satvik1.pbix
 └─ README.md
+
 ---
 ---
 ## ⚒️ Future Improvements
