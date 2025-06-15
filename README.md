@@ -69,7 +69,7 @@ Ideal for:
 ## 🗂️ Repository Structure
 
 ---
-/ (root)
+📦s1
 ├─ satvik1.pbix
 └─ README.md
 
