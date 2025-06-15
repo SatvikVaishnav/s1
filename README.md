@@ -67,14 +67,15 @@ Ideal for:
 ---
 
 ## 🗂️ Repository Structure
+``` 
+📦 s1
+   ┣ 📊 satvik1.pbix
+   ┣ 📄 README.md
+   ┣ 📂 Orders.csv
+   ┗ 📂 Details.csv
+```
+---
 
----
-📦s1
-├─ satvik1.pbix
-└─ README.md
-
----
----
 ## ⚒️ Future Improvements
 
 - Connect dashboard to real-time or larger data sources  
